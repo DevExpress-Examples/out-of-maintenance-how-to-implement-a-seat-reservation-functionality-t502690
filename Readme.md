@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [DataSource.cs](./CS/App_Code/DataSource.cs) (VB: [DataSource.vb](./VB/App_Code/DataSource.vb))
+* [Seat.cs](./CS/App_Code/Seat.cs) (VB: [Seat.vb](./VB/App_Code/Seat.vb))
+* [Default.aspx](./CS/Default.aspx) (VB: [Default.aspx](./VB/Default.aspx))
+* [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx](./VB/Default.aspx))
+<!-- default file list end -->
 # How to implement a seat reservation functionality
 
 
